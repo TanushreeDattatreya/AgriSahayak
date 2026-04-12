@@ -1,0 +1,9 @@
+1.integration-->server-->nodemon index.js(3000)
+2.integration-->login-->npm run dev-->localhost:3000/login(5137)
+3.farmapp->npm run dev(3001)
+4.integration-->recommendation-->backend-->python server.python
+5.crawl4ai-->streamlit run streamlit_ui.py --server.port 8502
+6.aiwebscrapper-->streamlit run main.py --server.port 8501
+7.farmtools-->npm run dev  (3002)
+8.marketpredictor-->npm run dev
+9.marketpredictor-->python main2.py
